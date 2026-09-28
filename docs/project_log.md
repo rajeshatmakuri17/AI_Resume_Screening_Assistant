@@ -58,3 +58,29 @@ Test Case 5:
 
 Outcome:
 All test cases produced the expected results and confirmed that the scoring and recommendation logic worked correctly.
+
+### Version 3
+
+Date: September 27, 2026
+
+Enhancement:
+Implemented automated skill extraction from resume text.
+
+Problem Identified:
+Version 2 required users to manually enter candidate skills.
+
+Improvement:
+Version 3 accepts resume text and automatically identifies skills such as Python, SQL, Machine Learning, and Power BI.
+
+Result:
+The enhanced system successfully extracted skills from unstructured resume text and produced accurate screening recommendations.
+
+Test Result:
+Match Score: 100%
+
+Recommendation:
+Proceed to Interview
+
+Evidence:
+- Source code: resume_screening_v3.py
+- Screenshot: v3_improved_system.png
