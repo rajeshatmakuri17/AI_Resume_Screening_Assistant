@@ -1,0 +1,10 @@
+Data Analyst — Northwind Traders (Dallas, TX)
+
+We are looking for a Data Analyst to join our analytics team. You will build dashboards, automate reporting, and help turn data into decisions.
+
+Requirements:
+- Strong Python skills for data cleaning and automation
+- SQL and SQL Server for querying and reporting
+- Experience with Machine Learning concepts and model outputs
+- Power BI dashboards for business stakeholders
+- Advanced Excel for financial and operational models

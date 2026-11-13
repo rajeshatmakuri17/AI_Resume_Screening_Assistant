@@ -1,21 +1,35 @@
 # AI Resume Screening Assistant
 
-## Project Overview
+Screens resumes against job descriptions and recommends whether a candidate should proceed to interview. Paste a job description and a resume, and it extracts the required skills, finds the matches and gaps, and produces a match score with an interview recommendation.
 
-The AI Resume Screening Assistant is a workflow automation project developed for BCIS 5140 – Artificial Intelligence in Business.
-
-The purpose of the project is to automate the initial candidate screening process by comparing resume qualifications against job requirements and generating interview recommendations.
-
-The project evolved through four development versions, demonstrating iterative improvement and workflow automation principles.
+Built as a workflow-automation project (BCIS 5140 – Artificial Intelligence in Business) and developed iteratively across four versions, from fixed skill matching to full job-description analysis.
 
 ---
 
-## Project Objective
+## How to Run
 
-The project supports the following OKR (Objective and Key Result):
+Requires Python 3.8+ — no external packages to install (standard library only).
 
-**Objective:**
-Gain practical knowledge and skills needed to utilize artificial intelligence and workflow automation techniques to improve repetitive business processes.
+```bash
+git clone https://github.com/rajeshatmakuri17/AI_Resume_Screening_Assistant.git
+cd AI_Resume_Screening_Assistant
+python resume_screening_v4.py
+```
+
+When prompted, paste the job description, then paste the resume text. The latest version (`resume_screening_v4.py`) is the one to run.
+
+---
+
+## Try It with the Samples
+
+The `samples/` folder has a sample job description and a sample resume (fictional candidate). Run v4 and paste them in to see:
+
+```text
+Match Score: 80%
+Recommendation: Proceed to Interview
+```
+
+The full output is saved in `samples/example_output.txt` — the sample candidate matches 4 of 5 required skills (Python, SQL, Power BI, Excel) and is missing Machine Learning.
 
 ---
 
@@ -45,7 +59,7 @@ Gain practical knowledge and skills needed to utilize artificial intelligence an
 
 ## Technologies Used
 
-- Python
+- Python (standard library only)
 - Git
 - GitHub
 - Visual Studio Code
@@ -58,8 +72,13 @@ Gain practical knowledge and skills needed to utilize artificial intelligence an
 AI_Resume_Screening_Assistant
 │
 ├── docs
+├── samples
+│   ├── sample_job_description.txt
+│   ├── sample_resume.txt
+│   └── example_output.txt
 ├── screenshots
 ├── test_cases
+├── requirements.txt
 ├── resume_screening_v1.py
 ├── resume_screening_v2.py
 ├── resume_screening_v3.py
@@ -80,3 +99,11 @@ Five test cases were executed successfully.
 | 3 | 50% | Pass |
 | 4 | 25% | Pass |
 | 5 | 0% | Pass |
+
+---
+
+## Future Improvements
+
+- LLM-powered skill extraction (planned after the LangChain course)
+- Deploy with FastAPI + Docker
+- Add MLflow experiment tracking

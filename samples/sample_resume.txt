@@ -1,0 +1,15 @@
+Alex Carter — Data Analyst
+Dallas, TX | alex.carter@example.com
+
+Experience
+Data Analyst, Northwind Traders (2023–Present)
+- Built Python scripts to automate weekly reporting, saving the team 6 hours a week
+- Wrote SQL queries and SQL Server stored procedures for sales and inventory reporting
+- Created Power BI dashboards used by sales leadership to track pipeline and targets
+- Maintained Excel models for forecasting and budget tracking
+
+Skills
+Python, SQL, SQL Server, Power BI, Excel
+
+Education
+B.S. Business Analytics

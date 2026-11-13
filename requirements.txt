@@ -1,0 +1,3 @@
+# AI Resume Screening Assistant — dependencies
+# All four versions use only the Python standard library (re).
+# No external packages to install. Python 3.8+ recommended.

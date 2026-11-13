@@ -1,0 +1,38 @@
+============================================================
+AI Resume Screening Assistant V4
+============================================================
+
+Paste Job Description:
+
+
+Paste Resume Text:
+
+
+============================================================
+SCREENING RESULTS
+============================================================
+
+Job Skills:
+- Python
+- SQL
+- Machine Learning
+- Power BI
+- Excel
+
+Resume Skills:
+- Python
+- SQL
+- Power BI
+- Excel
+
+Matched Skills:
+- Python
+- SQL
+- Power BI
+- Excel
+
+Missing Skills:
+- Machine Learning
+
+Match Score: 80%
+Recommendation: Proceed to Interview
