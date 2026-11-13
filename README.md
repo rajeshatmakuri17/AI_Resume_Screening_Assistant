@@ -90,15 +90,15 @@ AI_Resume_Screening_Assistant
 
 ## Testing
 
-Five test cases were executed successfully.
+Five test cases were executed. Pass mark: 75% match score.
 
 | Test Case | Match Score | Result |
 |-----------|------------|---------|
 | 1 | 75% | Pass |
 | 2 | 100% | Pass |
-| 3 | 50% | Pass |
-| 4 | 25% | Pass |
-| 5 | 0% | Pass |
+| 3 | 50% | Fail |
+| 4 | 25% | Fail |
+| 5 | 0% | Fail |
 
 ---
 
