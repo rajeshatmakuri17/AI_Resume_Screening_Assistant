@@ -100,6 +100,17 @@ Five test cases were executed. Pass mark: 75% match score.
 | 4 | 25% | Fail |
 | 5 | 0% | Fail |
 
+## Screenshots
+
+### Version 1 — first working output
+![Version 1 output](screenshots/prototype_v1_output.png)
+
+### Version 2 — Test Case 2
+![Version 2, Test Case 2](screenshots/prototype_v2_testcase2.png)
+
+### Version 3 — improved system
+![Version 3 improved system](screenshots/v3_improved_system.png)
+
 ---
 
 ## Future Improvements

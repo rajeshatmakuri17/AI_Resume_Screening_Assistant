@@ -48,16 +48,16 @@ Test Case 2:
 100% Match Score - Pass
 
 Test Case 3:
-50% Match Score - Pass
+50% Match Score - Fail
 
 Test Case 4:
-25% Match Score - Pass
+25% Match Score - Fail
 
 Test Case 5:
-0% Match Score - Pass
+0% Match Score - Fail
 
 Outcome:
-All test cases produced the expected results and confirmed that the scoring and recommendation logic worked correctly.
+All test cases produced the expected results and confirmed that the scoring and recommendation logic worked correctly. Two of the five cases passed the 75% screening threshold; three fell below it.
 
 ### Version 3
 

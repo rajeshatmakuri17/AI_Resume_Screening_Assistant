@@ -111,7 +111,7 @@ Actual Result:
 
 Status:
 
-Pass
+Fail
 
 ---
 
@@ -135,7 +135,7 @@ Actual Result:
 
 Status:
 
-Pass
+Fail
 
 ---
 
@@ -159,7 +159,7 @@ Actual Result:
 
 Status:
 
-Pass
+Fail
 
 ---
 
@@ -312,4 +312,4 @@ The project provided several valuable learning experiences.
  
 # 7. Conclusion
  
-The AI Resume Screening Assistant successfully evolved from a simple rule-based screening system into a more advanced workflow automation solution capable of extracting information from resume text and comparing candidate qualifications against job requirements. Through testing, evaluation, and multiple enhancements, the project demonstrated practical applications of AI-inspired workflow automation within a business recruitment context. All planned test cases passed successfully, and the final version provided a more realistic and usable solution than the original prototype.
+The AI Resume Screening Assistant successfully evolved from a simple rule-based screening system into a more advanced workflow automation solution capable of extracting information from resume text and comparing candidate qualifications against job requirements. Through testing, evaluation, and multiple enhancements, the project demonstrated practical applications of AI-inspired workflow automation within a business recruitment context. Two of the five planned test cases passed the 75% screening threshold (the remaining three produced the expected lower scores and recommendations), and the final version provided a more realistic and usable solution than the original prototype.

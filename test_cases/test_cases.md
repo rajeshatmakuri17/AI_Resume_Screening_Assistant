@@ -1,5 +1,7 @@
 # AI Resume Screening Assistant - Test Cases
 
+Pass mark: 75% match score.
+
 ## Test Case 1
 
 Job Requirements:
@@ -64,7 +66,7 @@ Actual Result:
 50%
 
 Status:
-Pass
+Fail
 
 
 ## Test Case 4
@@ -82,7 +84,7 @@ Actual Result:
 25%
 
 Status:
-Pass
+Fail
 
 
 ## Test Case 5
@@ -100,4 +102,4 @@ Actual Result:
 0%
 
 Status:
-Pass
+Fail
